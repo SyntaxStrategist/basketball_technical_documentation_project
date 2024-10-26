@@ -32,4 +32,4 @@ This project is a technical documentation page focused on the sport of basketbal
 To view this project locally:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/the6reat/basketball_technical_documentation_project.git
+   git clone https://github.com/SyntaxStrategist/basketball_technical_documentation_project.git
